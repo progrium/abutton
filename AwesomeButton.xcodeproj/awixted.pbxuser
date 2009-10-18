@@ -1,0 +1,273 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AwesomeButtonAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 545}}";
+			sepNavSelRange = "{314, 0}";
+			sepNavVisRange = "{0, 510}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AwesomeButtonAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 545}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 643}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* AwesomeButton */ = {
+		activeExec = 0;
+		executables = (
+			90D53E710FCA6E3900A2F3DE /* AwesomeButton */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* AwesomeButtonViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 718}}";
+			sepNavSelRange = "{471, 0}";
+			sepNavVisRange = "{0, 645}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* AwesomeButtonViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 2080}}";
+			sepNavSelRange = "{2573, 0}";
+			sepNavVisRange = "{1879, 1326}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 90D53E710FCA6E3900A2F3DE /* AwesomeButton */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AwesomeButton */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* AwesomeButton */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 90D53E810FCA6E5800A2F3DE /* Code sense */;
+		executables = (
+			90D53E710FCA6E3900A2F3DE /* AwesomeButton */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					993,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 277524381;
+			PBXWorkspaceStateSaveDate = 277524381;
+		};
+		perUserProjectItems = {
+			90445AA7108AAFA60008CDF5 /* PBXTextBookmark */ = 90445AA7108AAFA60008CDF5 /* PBXTextBookmark */;
+			90445AB4108AB1550008CDF5 /* PBXTextBookmark */ = 90445AB4108AB1550008CDF5 /* PBXTextBookmark */;
+			90D53E9B0FCA7AAB00A2F3DE = 90D53E9B0FCA7AAB00A2F3DE /* PBXTextBookmark */;
+			90D53E9E0FCA7AAB00A2F3DE = 90D53E9E0FCA7AAB00A2F3DE /* PBXTextBookmark */;
+			90D53E9F0FCA7AAB00A2F3DE = 90D53E9F0FCA7AAB00A2F3DE /* PBXTextBookmark */;
+			90D53EA00FCA7AAB00A2F3DE = 90D53EA00FCA7AAB00A2F3DE /* PBXTextBookmark */;
+			90D53EA20FCA7AAB00A2F3DE = 90D53EA20FCA7AAB00A2F3DE /* PBXTextBookmark */;
+			90D53EB10FCA7E9300A2F3DE = 90D53EB10FCA7E9300A2F3DE /* PBXTextBookmark */;
+			90D53F330FCB875F00A2F3DE = 90D53F330FCB875F00A2F3DE /* PlistBookmark */;
+			90D53F370FCB875F00A2F3DE = 90D53F370FCB875F00A2F3DE /* PlistBookmark */;
+			90D53F5C0FCB8B7F00A2F3DE = 90D53F5C0FCB8B7F00A2F3DE /* PBXTextBookmark */;
+			90D53FB60FD8F9B000A2F3DE = 90D53FB60FD8F9B000A2F3DE /* PBXTextBookmark */;
+			90D53FC20FD8FA9000A2F3DE = 90D53FC20FD8FA9000A2F3DE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 90D53E800FCA6E5800A2F3DE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	90445AA7108AAFA60008CDF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AwesomeButtonViewController.m */;
+		name = "AwesomeButtonViewController.m: 158";
+		rLen = 0;
+		rLoc = 3379;
+		rType = 0;
+		vrLen = 1327;
+		vrLoc = 1334;
+	};
+	90445AB4108AB1550008CDF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AwesomeButtonViewController.m */;
+		name = "AwesomeButtonViewController.m: 116";
+		rLen = 0;
+		rLoc = 2573;
+		rType = 0;
+		vrLen = 1326;
+		vrLoc = 1879;
+	};
+	90D53E710FCA6E3900A2F3DE /* AwesomeButton */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AwesomeButton;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	90D53E800FCA6E5800A2F3DE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	90D53E810FCA6E5800A2F3DE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	90D53E9B0FCA7AAB00A2F3DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AwesomeButtonAppDelegate.h */;
+		name = "AwesomeButtonAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 314;
+		rType = 0;
+		vrLen = 510;
+		vrLoc = 0;
+	};
+	90D53E9E0FCA7AAB00A2F3DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AwesomeButtonViewController.m */;
+		name = "AwesomeButtonViewController.m: 23";
+		rLen = 0;
+		rLoc = 833;
+		rType = 0;
+		vrLen = 916;
+		vrLoc = 0;
+	};
+	90D53E9F0FCA7AAB00A2F3DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AwesomeButtonAppDelegate.m */;
+		name = "AwesomeButtonAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 643;
+		vrLoc = 0;
+	};
+	90D53EA00FCA7AAB00A2F3DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AwesomeButtonAppDelegate.h */;
+		name = "AwesomeButtonAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 314;
+		rType = 0;
+		vrLen = 510;
+		vrLoc = 0;
+	};
+	90D53EA20FCA7AAB00A2F3DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* AwesomeButtonViewController.h */;
+		name = "AwesomeButtonViewController.h: 15";
+		rLen = 0;
+		rLoc = 605;
+		rType = 0;
+		vrLen = 320;
+		vrLoc = 0;
+	};
+	90D53EB10FCA7E9300A2F3DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AwesomeButtonAppDelegate.m */;
+		name = "AwesomeButtonAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 643;
+		vrLoc = 0;
+	};
+	90D53F330FCB875F00A2F3DE /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* AwesomeButton-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/awixted/Playpen/AwesomeButton/AwesomeButton-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	90D53F370FCB875F00A2F3DE /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* AwesomeButton-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/awixted/Playpen/AwesomeButton/AwesomeButton-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	90D53F5C0FCB8B7F00A2F3DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* AwesomeButtonViewController.h */;
+		name = "AwesomeButtonViewController.h: 21";
+		rLen = 0;
+		rLoc = 471;
+		rType = 0;
+		vrLen = 645;
+		vrLoc = 0;
+	};
+	90D53FB60FD8F9B000A2F3DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AwesomeButtonViewController.m */;
+		name = "AwesomeButtonViewController.m: 158";
+		rLen = 0;
+		rLoc = 3379;
+		rType = 0;
+		vrLen = 999;
+		vrLoc = 388;
+	};
+	90D53FC20FD8FA9000A2F3DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AwesomeButtonViewController.m */;
+		name = "AwesomeButtonViewController.m: 158";
+		rLen = 0;
+		rLoc = 3379;
+		rType = 0;
+		vrLen = 1323;
+		vrLoc = 1336;
+	};
+}
